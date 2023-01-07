@@ -1,2 +1,2 @@
 
-good morining
+good morning
