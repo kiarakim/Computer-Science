@@ -4,6 +4,8 @@
 
 # CPU 구성요소
 
+<img src="https://user-images.githubusercontent.com/101039161/211259306-501078cf-b64a-4d54-8965-9590bb598b51.png" width="450px" height="300px"></img>
+
 ## 1. 제어 장치 (CU, Control Unit)
 
 - 명렁어를 순서대로 실행할 수 있도록 제어하는 장치
