@@ -52,3 +52,7 @@ CPU의 연산 순서는 Fetch -> Decode -> Execute -> Writeback 으로 이루어
 3. **Execute(실행)** : 해석된 명령어에 따라 데이터에 대한 연산을 수행
 
 4. **Writeback(쓰기)** : 명령어대로 처리 완료된 데이터를 메모리에 기록
+
+# CPU 동작 과정
+
+<img src="https://user-images.githubusercontent.com/101039161/211699532-665cdbf7-a98c-45b6-8ea7-2777a77487ca.png" width="450px" height="300px"></img>
